@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ADEEL-308
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning MERN
-- 💞️ I’m looking to collaborate on MERN PROJECTS
+- 🌱 I’m a Full Stack Developer
+- 💞️ I’m looking to collaborate on MERN PROJECTS and Django Projects
 - 📫 How to reach me by finding mistakes in my projects
 
 <!---
