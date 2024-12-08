@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ADEEL-308
+- 👋 Hi, I’m ADEEL AHMAD
 - 👀 I’m interested in Programming
 - 🌱 I’m a Full Stack Developer
 - 💞️ I’m looking to collaborate on MERN PROJECTS and Django Projects
